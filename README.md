@@ -6,7 +6,7 @@ current distance on it.
 
 ## Schematic
 
-[Schematic](distance_logger_bb.png)
+![Schematic](distance_logger_bb.png)
 
 ## Connections table
 
